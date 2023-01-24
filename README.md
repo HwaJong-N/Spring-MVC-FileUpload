@@ -3,7 +3,7 @@
 * 프로젝트 선택
   * Project: Gradle - Groovy
   * Language: Java
-  * Spring Boot: 2.7.8
+  * Spring Boot: 2.7.8 ( 버전 이슈로 인해 ➜ 2.5.1 )
   * Packaging: Jar
   * Java: 11
   
